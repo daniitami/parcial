@@ -1,0 +1,35 @@
+
+
+.btn-orange{
+    background-color: #ff5900;
+    color: white;
+}
+
+.top-menu{
+    color: black;
+    text-decoration: none;
+}
+
+.padding{
+    padding-top: 50px;
+}
+
+.celeste{
+    color:rgb(0, 204, 255);
+    padding-top: 150px;
+}
+
+.bg-gray{
+    background-color: rgb(245, 245, 245);
+    margin: 0px;
+    padding-left: 10%;
+
+}
+
+.pad{
+    padding-top: 30px;
+}
+
+.ft-grey{
+    color: grey;
+}
